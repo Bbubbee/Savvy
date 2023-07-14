@@ -1,0 +1,10 @@
+
+* {
+    text-align: center;
+    align-items: center;
+}
+
+ul {
+    margin-top: -10px;
+    list-style-position: inside;
+  }
